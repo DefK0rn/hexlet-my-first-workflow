@@ -1,0 +1,2 @@
+### GitHub Actions status bar
+[![welcome](https://github.com/DefK0rn/hexlet-my-first-workflow/actions/workflows/welcome.yml/badge.svg)](https://github.com/DefK0rn/hexlet-my-first-workflow/actions/workflows/welcome.yml)
